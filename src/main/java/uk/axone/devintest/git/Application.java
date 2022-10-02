@@ -10,4 +10,8 @@ public class Application {
         System.out.println("doing something");
     }
 
+    private void doSomethingElse(){
+        System.out.println("doing something Else");
+    }
+
 }
